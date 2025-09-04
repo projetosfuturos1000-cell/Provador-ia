@@ -1,0 +1,5 @@
+{
+  "name": "Provador Virtual AI",
+  "description": "Envie uma foto sua e uma peça de roupa para experimentar looks virtualmente com a ajuda da IA do Gemini. Veja como uma roupa nova ficaria em você sem sair de casa.",
+  "requestFramePermissions": []
+}
